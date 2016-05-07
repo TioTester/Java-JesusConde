@@ -10,5 +10,6 @@ package Capitulo1;
  * @author Christian Rubert
  */
 public class conceptosBasicos {
+    JOptionPane.ShowMessageDialog(null, "Bienvenido");
     
 }
